@@ -1,1 +1,1 @@
-Here is a collection of the script, which is used for the project Children of Scáth.
+This is a collection of scripts used for the Children of Scáth project.
